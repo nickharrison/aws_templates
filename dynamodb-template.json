@@ -1,0 +1,14 @@
+{
+    "TableName": "",
+    "AttributeDefinitions": [
+        { "AttributeName": "", "AttributeType": "" }
+      ],
+    "KeySchema": [
+      { "AttributeName": ""
+        , "KeyType": "" }
+    ],
+    "ProvisionedThroughput": {
+      "ReadCapacityUnits": ,
+      "WriteCapacityUnits": 
+    }
+}
